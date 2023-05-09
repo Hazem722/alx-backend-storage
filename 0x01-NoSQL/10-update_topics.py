@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-a function that changes all topics of a school document based on the name
+a function that changes all topics of a school document
 """
 import pymongo
 
